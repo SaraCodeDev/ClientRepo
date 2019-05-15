@@ -1,1 +1,2 @@
-Text on the file
+Text on the file, Added Text on the end of the file
+Add text at a new line 
