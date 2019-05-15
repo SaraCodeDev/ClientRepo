@@ -1,2 +1,3 @@
 Text on the file, Added Text on the end of the file
 Add text at a new line 
+This is the bug fix
